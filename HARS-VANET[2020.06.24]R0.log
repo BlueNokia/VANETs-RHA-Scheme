@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.18 (TeX Live 2017/Debian) (preloaded format=pdflatex 2020.6.30)  30 JUN 2020 19:33
+This is pdfTeX, Version 3.14159265-2.6-1.40.18 (TeX Live 2017/Debian) (preloaded format=pdflatex 2020.6.30)  30 JUN 2020 19:57
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -1178,46 +1178,41 @@ Underfull \hbox (badness 10000) in paragraph at lines 546--547
 <binary_grey.png, id=417, 432.61626pt x 272.01625pt>
 File: binary_grey.png Graphic file (type png)
 <use binary_grey.png>
-Package pdftex.def Info: binary_grey.png  used on input line 551.
+Package pdftex.def Info: binary_grey.png  used on input line 553.
 (pdftex.def)             Requested size: 173.04343pt x 108.80457pt.
 
-Underfull \hbox (badness 10000) in paragraph at lines 556--584
+Underfull \hbox (badness 10000) in paragraph at lines 559--587
 
  []
 
 [5 <./binary_grey.png>]
-Underfull \hbox (badness 10000) in paragraph at lines 618--619
+Underfull \hbox (badness 10000) in paragraph at lines 621--622
 
  []
 
 
-Underfull \hbox (badness 3482) in paragraph at lines 625--635
+Underfull \hbox (badness 3482) in paragraph at lines 628--638
 []\OT1/ptm/m/n/10 We show that our scheme is \OT1/ptm/m/it/10 euf-cma \OT1/ptm/
 m/n/10 (ex-is-ten-tially
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 625--635
+Underfull \hbox (badness 10000) in paragraph at lines 628--638
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 625--635
+Underfull \hbox (badness 10000) in paragraph at lines 628--638
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 636--637
+Underfull \hbox (badness 10000) in paragraph at lines 639--640
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 645--647
-
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 649--651
+Underfull \hbox (badness 10000) in paragraph at lines 648--650
 
  []
 
@@ -1227,32 +1222,37 @@ Underfull \hbox (badness 10000) in paragraph at lines 652--654
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 662--663
+Underfull \hbox (badness 10000) in paragraph at lines 655--657
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 665--666
 
  []
 
 [6]
 
 LaTeX Warning: No positions in optional float specifier.
-               Default added (so using `tbp') on input line 725.
+               Default added (so using `tbp') on input line 728.
 
 <batch.png, id=425, 1201.48875pt x 771.88374pt>
 File: batch.png Graphic file (type png)
 <use batch.png>
-Package pdftex.def Info: batch.png  used on input line 761.
+Package pdftex.def Info: batch.png  used on input line 764.
 (pdftex.def)             Requested size: 240.29349pt x 154.37401pt.
 <bin.png, id=426, 1201.48875pt x 771.88374pt>
 File: bin.png Graphic file (type png)
 <use bin.png>
-Package pdftex.def Info: bin.png  used on input line 815.
+Package pdftex.def Info: bin.png  used on input line 818.
 (pdftex.def)             Requested size: 240.29349pt x 154.37401pt.
 <space.png, id=427, 506.89375pt x 74.2775pt>
 File: space.png Graphic file (type png)
 <use space.png>
-Package pdftex.def Info: space.png  used on input line 854.
+Package pdftex.def Info: space.png  used on input line 857.
 (pdftex.def)             Requested size: 253.44626pt x 37.13866pt.
 
-Overfull \hbox (1.44626pt too wide) in paragraph at lines 854--855
+Overfull \hbox (1.44626pt too wide) in paragraph at lines 857--858
  [][] 
  []
 
@@ -1284,7 +1284,7 @@ e/texlive/texmf-dist/fonts/type1/urw/times/utmb8a.pfb></usr/share/texlive/texmf
 -dist/fonts/type1/urw/times/utmbi8a.pfb></usr/share/texlive/texmf-dist/fonts/ty
 pe1/urw/times/utmr8a.pfb></usr/share/texlive/texmf-dist/fonts/type1/urw/times/u
 tmri8a.pfb>
-Output written on HARS-VANET[2020.06.24]R0.pdf (9 pages, 489282 bytes).
+Output written on HARS-VANET[2020.06.24]R0.pdf (9 pages, 489305 bytes).
 PDF statistics:
  482 PDF objects out of 1000 (max. 8388607)
  421 compressed objects within 5 object streams
